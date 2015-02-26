@@ -7,7 +7,7 @@
  *
  * @author mohammed
  */
-package hwstringmanipulator;
+package hwstringmani;
 
 import java.util.Scanner;
 
